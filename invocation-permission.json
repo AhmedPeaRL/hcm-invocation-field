@@ -1,0 +1,7 @@
+{
+  "invocation_allowed": true,
+  "invocation_triggered": false,
+  "invocation_expected": false,
+  "silence_state": "complete",
+  "post-invocation_return": "silence"
+}
